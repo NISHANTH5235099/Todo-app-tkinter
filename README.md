@@ -27,12 +27,13 @@ python app.py
 ![Home](screenshots/home.png)
 
 ### Add Task
-![Add Task](screenshots/addtask.png)
+![Add Task](screenshots/add-task.png)
 
 ### Completed Task
-![Completed](screenshots/completed.png)
+![Completed](screenshots/completed-task.png)
 
 ### Search Feature
 ![Search](screenshots/search.png)
+
 
 
