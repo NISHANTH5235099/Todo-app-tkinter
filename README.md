@@ -24,16 +24,17 @@ python app.py
 ## 📸 Screenshots
 
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Add Task
-![Add Task](screenshots/addtask.png)
+![Add Task](addtask.png)
 
 ### Completed Task
-![Completed](screenshots/completed.png)
+![Completed](completed.png)
 
 ### Search Feature
-![Search](screenshots/search.png)
+![Search](search.png)
+
 
 
 
