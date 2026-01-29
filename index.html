@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Taskora</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+    <h1><strong><em>✨ Taskora</em></strong></h1>
+    <span class="subtitle"> Stay organized. Stay ahead.</span>
+    <button id="darkToggle">🌙</button>
+</header>
+<main class="main">
+    <div class="app">
+        <h3>Welcome 👋</h3>
+        <p class="tagline">Let’s get things done today</p>
+
+
+        <!-- Counter -->
+        <div class="counter" id="counter"></div>
+
+        <!-- Search -->
+        <input type="text" id="search" placeholder="🔍 Search tasks">
+
+        <!-- Add Task -->
+        <div class="add-task">
+            <input type="text" id="taskInput" placeholder="What needs to be done?">
+            <input type="date" id="dateInput">
+            <button onclick="addTask()">Add</button>
+        </div>
+
+        <!-- Task List -->
+        <ul id="taskList"></ul>
+    </div>
+
+</main>
+
+
+<footer class="footer">
+    <p>© 2026 Taskora • Built with ❤️</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
